@@ -1,10 +1,10 @@
 telegram:
-  token: 1536883736:AAHHt5rL5aZ31Ntkt0JqBT2Q_nVdvmJAapo
+  token: 
 youtube:
   youtube_url: https://www.googleapis.com/youtube/v3/search?
-  api_token: AIzaSyCaOj0sjLbm3lDBXlFhJDej9B-cZP84dbM
+  api_token: 
 chucknorris:
   chuck_url: http://api.icndb.com/jokes/random _
 weather:
   weather_api: https://api.openweathermap.org/data/2.5/weather?
-  weather_key: 601a728d34eb36b07c9f59195cdad232
+  weather_key: 
